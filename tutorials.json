@@ -1,0 +1,16 @@
+{
+    "tutorials":[
+	    {
+            "title":"Auto Follow",
+            "path":"/tutorials/Auto%20Follow",
+            "coverlink":"/assets/Auto%Follow/cover.svg",
+            "author":{
+			    "username":"happex",
+				"link":"https://github.com/nao-l"
+			}
+        }
+	],
+	"matches":[
+	    "Auto%20Follow"
+	]
+}
